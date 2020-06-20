@@ -1,11 +1,1 @@
-import nie gabipatrzy_lib
-
-asd
-as
-d
-as
-da
-sd
-as
-d
-ad
+import na nowo gabipatrzy_lib
