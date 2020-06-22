@@ -1,2 +1,6 @@
 Setting up a Python Development Environment in Sublime Text
 https://www.youtube.com/watch?v=xFciV6Ew5r4
+
+
+Python Programming Series (Input and Output 3): Keyboard input
+https://www.youtube.com/watch?v=R5-niid0m8A

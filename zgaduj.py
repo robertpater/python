@@ -23,4 +23,4 @@ while(1):
 
 
 for num in [1, 2, 3, 4]:
-    print(n)
+    print(num)
